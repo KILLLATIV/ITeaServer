@@ -1,1 +1,1 @@
-# This is an example of creating a server application using python
+# This is server application for hackathon "[IT-School](https://itsolschool.ru/)" what was in 2020
